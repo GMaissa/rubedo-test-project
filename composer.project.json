@@ -1,0 +1,31 @@
+{
+    "name": "test",
+    "description": "Composer installer plugin for Rubedo core",
+    "license":"MIT",
+    "require": {
+        "php": ">=5.4.0",
+        "novactive/rubedo-core-installer": "dev-master",
+        "webtales/rubedo": "dev-feature/set-composer-package-type"
+    },
+    "require-dev": {
+    },
+    "minimum-stability": "dev",
+    "config": {
+        "process-timeout": 600,
+        "secure-http":false
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "git://github.com/GMaissa/rubedo.git"
+        },
+        {
+            "type": "vcs",
+            "url": "git://github.com/GMaissa/rubedo-core-installer.git"
+        },
+        {
+            "type": "vcs",
+            "url": "git://github.com/WebTales/MongoFilters.git"
+        }
+    ]
+}

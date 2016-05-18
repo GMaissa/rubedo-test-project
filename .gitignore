@@ -1,0 +1,12 @@
+/*
+
+!/config
+/config/*
+!/config/autoload
+/config/autoload/*
+!/config/autoload/local.php__*__
+
+!/composer.project.*
+!/extensions
+!/README.md
+!/.gitignore
