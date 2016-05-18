@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "c959e0df1cdc0f840a301f4c04c942c8",
-    "content-hash": "72fd6dcf8668101ee88f74e5994eec2b",
+    "hash": "94e2aa093dfb9e11a402728e776d2e53",
+    "content-hash": "ce0982a10e2e92e461b1daa73c1502f1",
     "packages": [
         {
             "name": "elasticsearch/elasticsearch",
@@ -758,16 +758,16 @@
         },
         {
             "name": "webtales/rubedo",
-            "version": "v4.x-dev",
+            "version": "dev-feature/set-composer-package-type",
             "source": {
                 "type": "git",
                 "url": "https://github.com/GMaissa/rubedo.git",
-                "reference": "26536bf0fcfba24530684154f3b3a238cac99a09"
+                "reference": "be0245953df493faf834f69e7da754bd07e8d189"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/GMaissa/rubedo/zipball/26536bf0fcfba24530684154f3b3a238cac99a09",
-                "reference": "26536bf0fcfba24530684154f3b3a238cac99a09",
+                "url": "https://api.github.com/repos/GMaissa/rubedo/zipball/be0245953df493faf834f69e7da754bd07e8d189",
+                "reference": "be0245953df493faf834f69e7da754bd07e8d189",
                 "shasum": ""
             },
             "require": {
@@ -810,9 +810,9 @@
             ],
             "description": "An open source PHP CMS",
             "support": {
-                "source": "https://github.com/GMaissa/rubedo/tree/4.0"
+                "source": "https://github.com/GMaissa/rubedo/tree/feature/set-composer-package-type"
             },
-            "time": "2016-05-18 19:50:43"
+            "time": "2016-05-18 11:16:18"
         },
         {
             "name": "zendframework/zend-developer-tools",
